@@ -5,7 +5,7 @@ const PORT = 3000;
 const server = http.createServer((req, res) => {
   if (req.url === "/") {
     res.writeHead(200, { "Content-Type": "text/plain" });
-    res.end("Hello, World!");
+    res.end("Hello from Git Project!");
   } else if (req.url === "/about") {
     res.writeHead(200, { "Content-Type": "text/plain" });
     res.end("About Page");

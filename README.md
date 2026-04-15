@@ -169,3 +169,8 @@ This project demonstrates a clear understanding of Git fundamentals, including:
 * file tracking
 * staging and committing
 * maintaining a clean project with `.gitignore`
+
+## Author
+
+**Adaobi Okwuosa**  
+Date: April 2026
